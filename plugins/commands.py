@@ -55,7 +55,7 @@ async def start(client, message):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
             ],[
-            InlineKeyboardButton('💥Contact💥l', url='https://t.me/Contact_R2')
+            InlineKeyboardButton('💥Contact💥', url='https://t.me/Contact_R2')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -384,7 +384,7 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('♥️ Thank You LazyDeveloper ♥️')
+    await message.answer('♥️ Thank You Acckerman ♥️')
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
 
