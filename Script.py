@@ -1,8 +1,8 @@
 class script(object):
     START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
+Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nGet Movies without Ads...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Contact_R2>Bug Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/Contact_R2>Acckerman's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/K2m_Botz>Dev Channel</a> and stay tuned for next <a href=https://t.me/Contact_R2>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Contact_R2>Bug Support</a>
     """
     LZLINK_TEXT = """Hey {},
 Glad to see you here. It seems that you really love <a href=https://t.me/Contact_R2>Me</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/K2m_Botz>Dev Channel</a> and stay tuned for next <a href=https://t.me/K2m_Botz>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Contact_R2>Bug Support</a>
@@ -24,7 +24,7 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
+- Updates channel for info bot. 
 - Source - https://t.me/K2m_Botz
 
 <b>DEVS:</b>
@@ -53,7 +53,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/Contact_R2)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
